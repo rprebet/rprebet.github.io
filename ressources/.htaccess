@@ -1,0 +1,6 @@
+#
+# Restrict access by IP address
+#
+Order Allow,Deny 
+Allow from 127.           # localhost
+
