@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^PrSaSc2024$  /ressources/PrSaSc2024.pdf [L]
